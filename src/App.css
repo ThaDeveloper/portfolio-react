@@ -18,6 +18,12 @@
 .projects-grid {
   display: flex;
 }
+/* Resume */
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
 .avatar-img {
    height: 250px;
    padding-top: 5em;  
